@@ -8,7 +8,7 @@ Time spent: **0.5** hours spent in total
 Android Studio, Java
 
 ## Direction
-1. Moving the seekbar to the time you want to start with
+1. Moving the seekbar to the time you want to start with(up to 10 minutes)
 2. Clicking the button, and the Timer would countdown the time
 3. If clicking the button again, it would stop and reset the time to 0:30
 4. If the time hit 0:00, it would have a horn sound to notify the user
